@@ -2,7 +2,7 @@
 
 **Student Name:** Chinnala Manish Ranga  
 **SRN:** PES2UG24CS135  
-**Course:** Software Engineering (SETA Labs)  
+**Course:** Software Engineering  
 **Semester & Section:** 5th Semester, Section C  
 **Repository:** [SE_LABS_PES2UG24CS135](https://github.com/manishranga-07/SE_LABS_PES2UG24CS135)  
 
